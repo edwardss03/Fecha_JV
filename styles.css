@@ -105,19 +105,19 @@ body {
 }
 
 .fase_13 {
-    background: linear-gradient(#c67fef 98%, var(--line) 98%);
+    background: linear-gradient(#86936c 98%, var(--line) 98%);
 }
 
 .fase_14 {
-    background: linear-gradient(#50ab76 98%, var(--line) 98%);
+    background: linear-gradient(#A3B087 98%, var(--line) 98%);
 }
 
 .fase_15 {
-    background: linear-gradient(#cc24e6 98%, var(--line) 98%);
+    background: linear-gradient(#A3B087 98%, var(--line) 98%);
 }
 
 .fase_16 {
-    background: linear-gradient(#50ab76 98%, var(--line) 98%);
+    background: linear-gradient(#A3B087 98%, var(--line) 98%);
 }
 
 #e95338 .paper .num {
@@ -376,4 +376,5 @@ img {
     max-width: 100%;
     height: auto;
     display: block;
+
 }
