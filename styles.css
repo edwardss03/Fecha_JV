@@ -151,7 +151,21 @@ body {
 .fase_24 {
     background: linear-gradient(#B0EFEB 98%, var(--line) 98%);
 }
+.fase_25 {
+    background: linear-gradient(#ea368a 98%, var(--line) 98%);
+}
 
+.fase_26 {
+    background: linear-gradient(#f259a1 98%, var(--line) 98%);
+}
+
+.fase_27 {
+    background: linear-gradient(#f259a1 98%, var(--line) 98%);
+}
+
+.fase_28 {
+    background: linear-gradient(#f259a1 98%, var(--line) 98%);
+}
 #e95338 .paper .num {
     font-family: 'Roboto', sans-serif;
     font-size: 1.4em;
@@ -325,7 +339,25 @@ body {
         grid-column: 3 / 4;
         grid-row: 12 / 13;
     }
+    .fase_25 {
+        grid-column: 2 / 3;
+        grid-row: 13 / 14;
+    }
 
+    .fase_26 {
+        grid-column: 1 / 2;
+        grid-row: 14 / 15;
+    }
+
+    .fase_27 {
+        grid-column: 2 / 3;
+        grid-row: 14 / 15;
+    }
+
+    .fase_28 {
+        grid-column: 3 / 4;
+        grid-row: 14 / 15;
+    }
     .credit {
         position: absolute;
         bottom: 9px;
@@ -450,5 +482,6 @@ img {
     display: block;
 
 }
+
 
 
