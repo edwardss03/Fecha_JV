@@ -126,6 +126,16 @@ body {
   background: linear-gradient(#8593c8 98%, var(--line) 98%);
 }
 
+.fase_33 {
+  background: linear-gradient(#6b33c4 98%, var(--line) 98%);
+}
+
+.fase_34,
+.fase_35,
+.fase_36 {
+  background: linear-gradient(#8e51f0 98%, var(--line) 98%);
+}
+
 .container .title {
   font-size: 1.2em;
   color: var(--text);
@@ -327,6 +337,26 @@ body {
   .fase_32 {
     grid-column: 3 / 4;
     grid-row: 16 / 17;
+  }
+
+  .fase_33 {
+    grid-column: 2 / 3;
+    grid-row: 17 / 18;
+  }
+
+  .fase_34 {
+    grid-column: 1 / 2;
+    grid-row: 18 / 19;
+  }
+
+  .fase_35 {
+    grid-column: 2 / 3;
+    grid-row: 18 / 19;
+  }
+
+  .fase_36 {
+    grid-column: 3 / 4;
+    grid-row: 18 / 19;
   }
 
   .container .title {
