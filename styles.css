@@ -136,6 +136,16 @@ body {
   background: linear-gradient(#8e51f0 98%, var(--line) 98%);
 }
 
+.fase_37 {
+  background: linear-gradient(#25c084 98%, var(--line) 98%);
+}
+
+.fase_38,
+.fase_39,
+.fase_40 {
+  background: linear-gradient(#2deca3 98%, var(--line) 98%);
+}
+
 .container .title {
   font-size: 1.2em;
   color: var(--text);
@@ -357,6 +367,46 @@ body {
   .fase_36 {
     grid-column: 3 / 4;
     grid-row: 18 / 19;
+  }
+
+  .fase_33 {
+    grid-column: 2 / 3;
+    grid-row: 17 / 18;
+  }
+
+  .fase_34 {
+    grid-column: 1 / 2;
+    grid-row: 18 / 19;
+  }
+
+  .fase_35 {
+    grid-column: 2 / 3;
+    grid-row: 18 / 19;
+  }
+
+  .fase_36 {
+    grid-column: 3 / 4;
+    grid-row: 18 / 19;
+  }
+
+  .fase_37 {
+    grid-column: 2 / 3;
+    grid-row: 19 / 20;
+  }
+
+  .fase_38 {
+    grid-column: 1 / 2;
+    grid-row: 20 / 21;
+  }
+
+  .fase_39 {
+    grid-column: 2 / 3;
+    grid-row: 20 / 21;
+  }
+
+  .fase_40 {
+    grid-column: 3 / 4;
+    grid-row: 20 / 21;
   }
 
   .container .title {
